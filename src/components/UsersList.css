@@ -1,0 +1,7 @@
+.users {
+    text-align: center;
+  }
+    .users div {
+    border-top: 2px solid black;
+    padding-top: 20px;
+  }
